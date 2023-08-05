@@ -34,7 +34,7 @@ input {
     color: #FFF;
 }
 
-.btn-reg {
+.btn-reg, .btn-auth {
     width: 352px;
     padding: 10px;
     border-radius: 20px;
